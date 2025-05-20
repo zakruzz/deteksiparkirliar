@@ -4,3 +4,8 @@ ultralytics
 opencv-python
 numpy
 pandas
+opencv-python-headless
+Pillow
+requests
+seaborn
+matplotlib
